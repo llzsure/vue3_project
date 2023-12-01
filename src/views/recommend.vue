@@ -1,6 +1,6 @@
 <template>
   <div class="recommend" v-loading="loading">
-   推荐页面
+   推荐页面11
   </div>
 </template>
 
